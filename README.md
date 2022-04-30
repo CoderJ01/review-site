@@ -14,10 +14,10 @@ When the user clicks on the 'Profile' link, then the user is directed to his own
 ![Alt text](./client/public/assets/images/screenshot.JPG?raw=true "Nelp")
 
 ## Require Packages
-Root
+* Root
     * concurrently
 
-Server
+* Server
     * apollo-server-core
     * apollo-server-express
     * bcrypt
@@ -29,7 +29,7 @@ Server
     * mongodb
     * mongoose
 
-Client
+* Client
     * @apollo/client
     * @testing-library/jest-dom
     * @testing-library/react
@@ -44,7 +44,7 @@ Client
     *  web-vitals   
 
 ## Website Link
-<!-- insert -->
+https://national-parks-reviews.herokuapp.com/
 
 ## Contribution
 crazypants300, CoderJ01, Evidal19
